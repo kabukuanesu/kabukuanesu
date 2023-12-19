@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kabukuanesu
 - 👀 I’m interested in Machine Learning using Python
-- 🌱 I’m currently studying a degree in Software Engineering 
+- 🌱 I’m currently studying a Degree in Software Engineering 
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me ... +263 78 431 4602
 
